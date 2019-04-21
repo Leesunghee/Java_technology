@@ -1,0 +1,9 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÉÇ§›”-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÉÇ§›”-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(öÂˆ¥8½¢ª›”-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õäª›”-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8õäª›”-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(®¶õ×8¬Ü¨›”-
